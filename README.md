@@ -1,4 +1,4 @@
-# Smart Composr System
+# Smart Compost System
 
 Introduction : 
 Briefly explain the purpose of the prototype, its main features, and what problem it solves.
